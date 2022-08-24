@@ -4,7 +4,7 @@ function App() {
 
   return (
       <div>
-        <img src="/image20.png" className="logo" alt="menu-helados" />
+        <img src="https://i.ibb.co/k4LS4gS/image20.png" className="logo" alt="menu-helados" />
       </div>
   );
 }
